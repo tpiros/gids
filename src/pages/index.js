@@ -13,7 +13,8 @@ export default function Home() {
       <p className="p-5">
         Christmas is an annual festival commemorating the birth of Jesus Christ,
         observed primarily on December 25 as a religious and cultural
-        celebration among billions of people around the world. (Wikipedia)
+        celebration among billions of people around the world. (Wikipedia) Hello
+        World
       </p>
       <p className="p-5">
         In our online store, you can buy the finest Christmas products for you
